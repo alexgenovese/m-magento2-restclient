@@ -1,5 +1,5 @@
 {
-  "name": "magento2-rest-client",
+  "name": "m-magento2-restclient",
   "version": "1.0.0",
   "description": "REST client for accessing Magento 2 functionality. - Copied and edited https://github.com/vuestorefront/magento2-rest-client/blob/master/package.json",
   "main": "index.js",
